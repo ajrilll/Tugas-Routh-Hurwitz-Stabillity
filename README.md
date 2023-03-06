@@ -1,4 +1,6 @@
 # Tugas-Routh-Hurwitz-Stabillity
+Nama : Danendra Azriel Ramdhany
+NIM : 21/478295/PA/20739
 
 Kode program tersebut merupakan implementasi algoritma Routh-Hurwitz dalam bahasa pemrograman Python. Algoritma ini digunakan untuk menentukan stabilitas suatu sistem dinamik berdasarkan persamaan polinomial karakteristiknya.
 
